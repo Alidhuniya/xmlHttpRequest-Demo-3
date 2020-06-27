@@ -1,0 +1,49 @@
+[
+    {
+        "id" : 1,
+        "name": "Avinash Thapa",
+        "STD": 2,
+        "Adress": "bhw",
+        "Fathers_Name": "Kamal Thapa",
+        "Phone_Number": "989997867"
+    },
+
+    {
+        "id" : 2,
+        "name": "Aksara Sharma",
+        "STD": 2,
+        "Adress": "bhw Milanchowk",
+        "Fathers_Name": "Kamal Sharma",
+        "Phone_Number": "989997867"
+    },
+
+
+    {
+        "id" : 1,
+        "name": "Ashmita Thapa",
+        "STD": 2,
+        "Adress": "Goligad",
+        "Fathers_Name": "Babu Thapa",
+        "Phone_Number": "989998457"
+    },
+
+    {
+        "id" : 1,
+        "name": "Avisheikh Sharma",
+        "STD": 2,
+        "Adress": "Barmailitol",
+        "Fathers_Name": "HiraRam",
+        "Phone_Number": "98999475"
+    },
+
+    {
+        "id" : 1,
+        "name": "sishir pandey",
+        "STD": 2,
+        "Adress": "Butwal",
+        "Fathers_Name": "Kamal pandey",
+        "Phone_Number": "984885775"
+    }
+
+
+]
